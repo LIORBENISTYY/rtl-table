@@ -10,7 +10,7 @@
     {
       "kind": "main",
       "tag": "com-custom-rtl-table",
-      "url": "https://www.example.com/customwidgets/rtl-table/rtl-table.js",
+      "url": "https://liorbenistyy.github.io/rtl-table/rtl-table.js", 
       "integrity": "",
       "ignoreIntegrity": true
     }
@@ -45,3 +45,4 @@
   "supportsBookmark": true,
   "supportsViewportLoading": true
 }
+
